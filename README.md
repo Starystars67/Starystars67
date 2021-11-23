@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Coming Soon.](Coming Soon.)
 
-- ⚡ Fun fact **Coming Soon.**
+- ⚡ Fun fact: BeamMP was started because I wanted to play BeamNG.drive with my brother while I was away at university.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
