@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BeamMP](https://github.com/BeamMP/BeamMP)
 
-- 🌱 I’m currently learning **Coming Soon.**
+- 🌱 I’m currently learning SOC Management.
 
 - 👯 I’m looking to collaborate on [BeamMP](https://github.com/BeamMP/BeamMP)
 
